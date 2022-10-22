@@ -15,4 +15,4 @@ The initial design and architecture includes:
 
 This will develop as we go along
 
-We the github workflow as our branching strategy here with main > release > integration and feature branches.
+We use the github workflow as our branching strategy here with main > release > integration and feature branches.
